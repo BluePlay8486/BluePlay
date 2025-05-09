@@ -10,28 +10,21 @@
 <link>plugin://plugin.video.youtube/play/?video_id=xjbxG5VEo4M$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/tfM1T6tAivjvy0sLwt6Y9WvlmzB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg</fanart>
-<info>
-[COLOR yellow]Título Original:[/COLOR] Sonic the Hedgehog 3
-[COLOR yellow]Ano:[/COLOR] 2024
-[COLOR yellow]Nota:[/COLOR] 7.8
-[COLOR yellow]Gênero:[/COLOR] Ação, Ficção Científica, Comédia, Família, Aventura, Fantasia
-[COLOR yellow]Sinopse:[/COLOR] Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.
-</info>
-<originaltitle>Captain America: Brave New World</originaltitle>
-<duration>108</duration>
-<rate>6.0</rate>
-<genre>Ação</genre>
-<date>2025-07-01</date>
+<info></info>
+<genre>Ação, Aventura</genre>
 <year>2025</year>
-<credits>Anthony Mackie, Harrison Ford</credits>
-<director>Rishab Seth</director>
-<votes>3500</votes>
-<writer>Malcolm Spellman</writer>
-<premiered>2025-07-01</premiered>
-<studio>Marvel Studios</studio>
+<director>John Doe</director>
+<writer>Jane Smith</writer>
+<duration>120 min</duration>
+<premiered>2025-05-01</premiered>
+<studio>Exemplo Studio</studio>
+<rate>8.5</rate>
+<originaltitle>Filme Exemplo Original</originaltitle>
 <country>Estados Unidos</country>
-<userrating>6.5</userrating>
-<aired>2025-07-10</aired>
+<rating>18</rating>
+<userrating>4.5</userrating>
+<votes>1500</votes>
+<aired>2025-05-01</aired>
 </item>
  
 <item>
